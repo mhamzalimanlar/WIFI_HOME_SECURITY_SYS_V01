@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TEMPERATURE_ADC Pin=U4-19
+Removed Pin From Net: NetName=USER_IO1 Pin=U4-41
+Added Pin To Net: NetName=USER_IO1 Pin=U4-19
+Added Pin To Net: NetName=TEMPERATURE_ADC Pin=U4-41

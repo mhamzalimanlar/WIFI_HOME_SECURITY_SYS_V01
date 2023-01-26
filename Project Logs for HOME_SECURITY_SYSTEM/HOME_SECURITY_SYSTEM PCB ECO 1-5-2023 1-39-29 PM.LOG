@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCU_RLY_1 Pin=U4-25
+Removed Pin From Net: NetName=MCU_RLY_2 Pin=U4-26
+Removed Member From Class: ClassName=Power_Managment Member=J1
+Added Pin To Net: NetName=MCU_RLY_1 Pin=U4-21
+Added Pin To Net: NetName=MCU_RLY_2 Pin=U4-22
+Added Member To Class: ClassName=Power_Managment Member=Component J8 64800611622

@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [WIFI_HOME_SECURITY_SYS-V01.PrjPcb]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GTO]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GTP]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GTS]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GTL]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GP1]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GP2]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GBL]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GBS]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GBP]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GBO]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GM7]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GKO]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GPT]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GPB]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GD1]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.GG1]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.RUL]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.EXTREP]
+   Generated File[WIFI_HOME_SECURITY_SYS-V01.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 1:56:46 PM On 1/23/2023

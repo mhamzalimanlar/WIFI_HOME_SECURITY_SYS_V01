@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\WIFI_HOME_SECURITY_SYS_V01\WIFI_HOME_SECURITY_SYS-V01.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=wifi_home_security_sys-v01-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=wifi_home_security_sys-v01-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

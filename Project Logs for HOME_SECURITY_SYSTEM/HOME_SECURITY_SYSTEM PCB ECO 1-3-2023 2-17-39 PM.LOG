@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=BR1-4
+Added Component: Designator=BR?(DB105STR)
+Add component (AddParameter): Name = "Designed by"; Value = "M.HamzaLimanlar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sangdest Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DB105STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-1821-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR?-4
+Added Pin To Net: NetName=NetBR?_1 Pin=BR?-1
+Added Pin To Net: NetName=NetBR?_1 Pin=T1-9
+Added Net: Name=NetBR?_1
+Added Pin To Net: NetName=NetBR?_2 Pin=BR?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=T1-7
+Added Net: Name=NetBR?_2
+Added Pin To Net: NetName=NetBR?_3 Pin=BR?-3
+Added Pin To Net: NetName=NetBR?_3 Pin=F1-2
+Added Net: Name=NetBR?_3
+Added Member To Class: ClassName=Power_Managment Member=Component BR? DB105STR

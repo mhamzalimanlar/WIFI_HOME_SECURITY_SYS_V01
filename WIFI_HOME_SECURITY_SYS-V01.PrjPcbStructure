@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=AUX_Sensor_Board.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AUX_Sensor_Board.SchDoc|FileName=Block_Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AUX_Sensor_Board.SchDoc|FileName=Cover.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AUX_Sensor_Board.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AUX_Sensor_Board.SchDoc|FileName=Power_Managment.SchDoc|SheetNumber=3
